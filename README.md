@@ -1,6 +1,7 @@
 # Ankermake Slicer Settings
 The material used for this design is **ABS** because it offers a good balance between strength and durability unlike PLA which is less durable.
-  
+
+<br></br>
 I changed the following settings so the arm joint is sturdy and reliable:
   
 1- Decreased the layer height from 0.2mm to 0.1mm to improve the strength and the visual quality.
