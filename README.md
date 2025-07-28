@@ -1,4 +1,4 @@
-# Ankermake Slicer Settings
+# eufyMake Slicer Settings
 The material used for this design is **ABS** because it offers a good balance between strength and durability unlike PLA which is less durable.
 
 I changed the following settings so the arm joint is sturdy and reliable:
